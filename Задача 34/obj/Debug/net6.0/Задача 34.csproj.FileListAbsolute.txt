@@ -1,0 +1,15 @@
+/Users/annagolikova/С# семинар 5 дз/Задача 34/bin/Debug/net6.0/Задача 34
+/Users/annagolikova/С# семинар 5 дз/Задача 34/bin/Debug/net6.0/Задача 34.deps.json
+/Users/annagolikova/С# семинар 5 дз/Задача 34/bin/Debug/net6.0/Задача 34.runtimeconfig.json
+/Users/annagolikova/С# семинар 5 дз/Задача 34/bin/Debug/net6.0/Задача 34.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 34/bin/Debug/net6.0/Задача 34.pdb
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.csproj.AssemblyReference.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.AssemblyInfoInputs.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.AssemblyInfo.cs
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/refint/Задача 34.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.pdb
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/Задача 34.genruntimeconfig.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 34/obj/Debug/net6.0/ref/Задача 34.dll

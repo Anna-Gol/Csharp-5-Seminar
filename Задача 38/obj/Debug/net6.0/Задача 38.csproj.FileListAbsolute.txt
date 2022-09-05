@@ -1,0 +1,15 @@
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.csproj.AssemblyReference.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.AssemblyInfoInputs.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.AssemblyInfo.cs
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 38/bin/Debug/net6.0/Задача 38
+/Users/annagolikova/С# семинар 5 дз/Задача 38/bin/Debug/net6.0/Задача 38.deps.json
+/Users/annagolikova/С# семинар 5 дз/Задача 38/bin/Debug/net6.0/Задача 38.runtimeconfig.json
+/Users/annagolikova/С# семинар 5 дз/Задача 38/bin/Debug/net6.0/Задача 38.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 38/bin/Debug/net6.0/Задача 38.pdb
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/refint/Задача 38.dll
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.pdb
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/Задача 38.genruntimeconfig.cache
+/Users/annagolikova/С# семинар 5 дз/Задача 38/obj/Debug/net6.0/ref/Задача 38.dll
